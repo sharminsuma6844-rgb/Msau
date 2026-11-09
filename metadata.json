@@ -1,0 +1,6 @@
+{
+  "name": "MusicU",
+  "description": "Material You music player inspired by Android 12 and Pixel design with dynamic accents, playlists, and rich playback controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
